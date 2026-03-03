@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Harvest Finance flash loan exploit — October 2020
+fork_block_number = 11129474
